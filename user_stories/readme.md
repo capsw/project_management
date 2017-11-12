@@ -1,0 +1,1 @@
+Definitions of the *user storie* of particular *Pesonas*

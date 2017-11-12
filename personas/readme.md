@@ -1,0 +1,1 @@
+Definitions of *Pesonas* - particular type of users of Cap SW
